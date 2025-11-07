@@ -8,12 +8,12 @@ a {
     text-align:center;
 }
 .flag{
-    width:500px;
-    height:800px;
+    width:800px;
+    height:500px;
     margin:auto;
 }
 .stripe{
-    width:100%
+    width:100%;
     height:250px;
 }
 .white{
@@ -21,6 +21,9 @@ a {
 }
 .red{
     background:#ff0000;
+}
+body{
+    background:#F8F8F8;
 }
 
 
