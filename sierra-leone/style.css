@@ -8,13 +8,10 @@ a {
     text-align:center;
 }
 
-.bodu {
-    margin: auto;
-}
 .flag {
     width:1000px;
     height:500px;
-    
+    margin:auto;
 }
 
 .stripe {
@@ -23,14 +20,14 @@ a {
     
 }
 
-.red {
-    color:red;
+.green {
+    background-color:#1EB53A;
 }
 
 .white {
-    color:white;
+    background-color:#FFFFFF;
 }
 
 .blue {
-    color:blue;
+    background-color:#0072C6;
 }
